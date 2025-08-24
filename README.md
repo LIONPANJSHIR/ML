@@ -1,2 +1,2 @@
 # ML
-Dans cette rubrique, je vais y mettre tout ce que j'apprend sur le ML (Théorie + application ) en Python et en Rstudio
+Dans cette rubrique, je vais mettre tout mes projet end to end en python et Rstudio
